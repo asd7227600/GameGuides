@@ -24,7 +24,7 @@
 * 类似法师消耗魔力值, 乐师需要消耗灵感值, 以圆盘方式显示在玩家头顶(满灵感不显示)
 * 初始灵感值为8, 可以通过三种道具来提高灵感值上限:
   * 灵感片段(Inspiration Fragment)
-    ![灵感片段合成方式](D:\Blog\GameGuides\Terraria\pics\瑟银-乐师-灵感片段合成.png)
+    ![灵感片段合成方式](https://github.com/asd7227600/GameGuides/blob/master/Terraria/pics/%E7%91%9F%E9%93%B6-%E4%B9%90%E5%B8%88-%E7%81%B5%E6%84%9F%E7%89%87%E6%AE%B5%E5%90%88%E6%88%90.png)
     奥术粉尘+瑟银锭合成, 奥术粉尘来源于*落星*在工作台制造
   * 启示碎片(Revelation Shard)
     ![启示碎片合成方式](D:\Blog\GameGuides\Terraria\pics\瑟银-乐师-启示碎片合成.png)
